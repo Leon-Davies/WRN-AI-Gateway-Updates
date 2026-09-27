@@ -1,7 +1,7 @@
 {
     "schemaVersion":  1,
-    "release":  7,
-    "publishedAt":  "2026-09-26T11:31:37.7497262+01:00",
+    "release":  8,
+    "publishedAt":  "2026-09-27T10:16:51.1420383+01:00",
     "minimumAppVersion":  "0.6.0",
     "defaultModelKey":  "gpt6-luna",
     "benchmarkSnapshot":  "2026-09-25",
@@ -39,7 +39,8 @@
                        "inputUsdPerMillion":  0.1,
                        "outputUsdPerMillion":  0.5,
                        "shortMessageUsd":  0.0007,
-                       "aaUrl":  "https://artificialanalysis.ai/models/gpt-6-luna"
+                       "aaUrl":  "https://artificialanalysis.ai/models/gpt-6-luna",
+                       "workCategory":  "everyday"
                    },
                    {
                        "key":  "opus55",
@@ -72,7 +73,8 @@
                        "inputUsdPerMillion":  4.0,
                        "outputUsdPerMillion":  20.0,
                        "shortMessageUsd":  0.028,
-                       "aaUrl":  "https://artificialanalysis.ai/models/claude-opus-5-5"
+                       "aaUrl":  "https://artificialanalysis.ai/models/claude-opus-5-5",
+                       "workCategory":  "research"
                    },
                    {
                        "key":  "gpt6-astra",
@@ -105,7 +107,8 @@
                        "inputUsdPerMillion":  10.0,
                        "outputUsdPerMillion":  50.0,
                        "shortMessageUsd":  0.07,
-                       "aaUrl":  "https://artificialanalysis.ai/models/gpt-6-astra"
+                       "aaUrl":  "https://artificialanalysis.ai/models/gpt-6-astra",
+                       "workCategory":  "research"
                    },
                    {
                        "key":  "deepseek-v41-flash",
@@ -138,10 +141,16 @@
                        "inputUsdPerMillion":  0.3,
                        "outputUsdPerMillion":  1.2,
                        "shortMessageUsd":  0.0018,
-                       "aaUrl":  "https://artificialanalysis.ai/models/deepseek-v4-1-flash"
+                       "aaUrl":  "https://artificialanalysis.ai/models/deepseek-v4-1-flash",
+                       "workCategory":  "everyday"
                    }
                ],
     "changelog":  [
+                      {
+                          "date":  "2026-09-27",
+                          "title":  "Clearer model choices",
+                          "body":  "Models are now grouped into Everyday work and Research level so it is easier to choose quickly."
+                      },
                       {
                           "date":  "2026-09-26",
                           "title":  "Improved DeepSeek compatibility",
