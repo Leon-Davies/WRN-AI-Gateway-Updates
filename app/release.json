@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  14,
-    "version":  "0.7.0-beta.4",
-    "publishedAt":  "2026-09-27T22:34:34.5388349+01:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000014.zip",
-    "artifactSha256":  "4b030aea9793427a12f670d0926b51273450d011531064cb07d871aea5cdbee3",
-    "artifactSize":  137950,
+    "release":  15,
+    "version":  "0.7.0-beta.5",
+    "publishedAt":  "2026-09-27T22:46:43.5194778+01:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000015.zip",
+    "artifactSha256":  "b1fa26a88386a9a3b8b593abb2a62afd7d6fd9b686b715f33f75915b504ca50b",
+    "artifactSize":  137967,
     "title":  "WRN AI Gateway pilot seed",
-    "notes":  "Pilot seed update rehearsal. No functional source changes from release 13."
+    "notes":  "Pilot updater reliability: retire verified background-only Claude residue before activation."
 }
