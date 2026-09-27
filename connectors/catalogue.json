@@ -1,9 +1,9 @@
 {
     "schemaVersion":  1,
-    "release":  2,
-    "publishedAt":  "2026-09-27T08:53:15.7623759+01:00",
+    "release":  3,
+    "publishedAt":  "2026-09-27T09:08:32.0407454+01:00",
     "minimumAppVersion":  "0.6.0",
-    "announcement":  "Connector catalogue remote update qualification.",
+    "announcement":  "Recommended connector pack qualification baseline.",
     "connectors":  [
                        {
                            "key":  "microsoft365",
@@ -67,7 +67,7 @@
                            "marketplaceUrl":  "https://claude.com/marketplace/connectors/wolfram",
                            "requiresSignIn":  false,
                            "requiresOrganisationEnablement":  false,
-                           "trustLevel":  "anthropic-verified",
+                           "trustLevel":  "wrn-reviewed",
                            "initial":  "W",
                            "accent":  "#B85B2B",
                            "visible":  true,
@@ -223,7 +223,7 @@
                            "trustLevel":  "anthropic-verified",
                            "initial":  "M",
                            "accent":  "#F59E0B",
-                           "visible":  false,
+                           "visible":  true,
                            "order":  130
                        }
                    ]
