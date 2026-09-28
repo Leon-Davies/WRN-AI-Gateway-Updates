@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  19,
-    "version":  "0.7.0-beta.9",
-    "publishedAt":  "2026-09-28T16:39:49.4566255+01:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000019.zip",
-    "artifactSha256":  "09358528cc7bb5ef22de984bd73f150ab018b07b675d813fdd9cff3b4918f2d3",
-    "artifactSize":  138173,
-    "title":  "GPT-6 Luna Max reasoning",
-    "notes":  "WRN now forces GPT-6 Luna to Max reasoning centrally so pilot users do not need a reasoning selector in Claude Desktop."
+    "release":  20,
+    "version":  "0.7.0-beta.10",
+    "publishedAt":  "2026-09-28T17:01:22.8786142+01:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000020.zip",
+    "artifactSha256":  "beb055bcfd01584890679f602c8c79468b3a16e8fcb172c53e04b5128f5a83ac",
+    "artifactSize":  138140,
+    "title":  "Simpler Claude mode wording",
+    "notes":  "Renames WTW Claude to Default Claude, removes launch-tile subtext, and normalizes the support email address."
 }
