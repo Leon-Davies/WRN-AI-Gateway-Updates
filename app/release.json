@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  18,
-    "version":  "0.7.0-beta.8",
-    "publishedAt":  "2026-09-28T06:38:30.8550928+01:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000018.zip",
-    "artifactSha256":  "2c59af3ea45cc425242abfa175e0fb52e407bf98fcda4b986fe704e9d05e8c55",
-    "artifactSize":  138111,
-    "title":  "WRN AI Gateway Monday pilot seed",
-    "notes":  "Installer completion closes cleanly after Open; WRN Claude model picker grouped Luna, DeepSeek, Opus, Astra."
+    "release":  19,
+    "version":  "0.7.0-beta.9",
+    "publishedAt":  "2026-09-28T16:39:49.4566255+01:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000019.zip",
+    "artifactSha256":  "09358528cc7bb5ef22de984bd73f150ab018b07b675d813fdd9cff3b4918f2d3",
+    "artifactSize":  138173,
+    "title":  "GPT-6 Luna Max reasoning",
+    "notes":  "WRN now forces GPT-6 Luna to Max reasoning centrally so pilot users do not need a reasoning selector in Claude Desktop."
 }
