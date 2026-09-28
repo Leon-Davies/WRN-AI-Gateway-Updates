@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  21,
-    "version":  "0.7.0-beta.11",
-    "publishedAt":  "2026-09-28T19:11:26.8680236+01:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000021.zip",
-    "artifactSha256":  "6ea4178802d34149c66c8c166d1d07bebf7fabcb7e912400c08efd8ef0650256",
-    "artifactSize":  138137,
-    "title":  "Clearer Claude launch actions",
-    "notes":  "Home cards now say Launch instead of Open and expose Launch Default Claude / Launch WRN Claude accessibility names."
+    "release":  22,
+    "version":  "0.7.0-beta.12",
+    "publishedAt":  "2026-09-28T19:40:13.3483479+01:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000022.zip",
+    "artifactSha256":  "710235f6d2e06e4b8ff4b57b11eb21898b4bfce625e0e6d51004e86cc7556169",
+    "artifactSize":  138798,
+    "title":  "Fix Claude gateway reachability check",
+    "notes":  "WRN now answers Claude Desktop\u0027s one-token local connectivity probe locally after normal authentication and model validation, preventing slow upstream models from being misreported as an unreachable localhost gateway."
 }
