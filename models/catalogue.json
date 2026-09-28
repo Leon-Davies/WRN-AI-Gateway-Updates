@@ -1,7 +1,7 @@
 {
     "schemaVersion":  1,
-    "release":  8,
-    "publishedAt":  "2026-09-27T10:16:51.1420383+01:00",
+    "release":  9,
+    "publishedAt":  "2026-09-28T16:35:47.7561516+01:00",
     "minimumAppVersion":  "0.6.0",
     "defaultModelKey":  "gpt6-luna",
     "benchmarkSnapshot":  "2026-09-25",
@@ -21,7 +21,7 @@
                        "streaming":  true,
                        "tools":  true,
                        "cowork":  "pending-clean-managed-qualification",
-                       "defaultEffort":  "high",
+                       "defaultEffort":  "max",
                        "minimumGatewayVersion":  "0.2.0",
                        "qualifiedAt":  "2026-09-25",
                        "qualificationVersion":  "wrn-model-refresh-v1",
@@ -146,6 +146,11 @@
                    }
                ],
     "changelog":  [
+                      {
+                          "date":  "2026-09-28",
+                          "title":  "GPT-6 Luna now uses Max reasoning",
+                          "body":  "WRN now aligns GPT-6 Luna with the Max reasoning configuration used for the benchmark shown in the Models page."
+                      },
                       {
                           "date":  "2026-09-27",
                           "title":  "Clearer model choices",
