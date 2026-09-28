@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  17,
-    "version":  "0.7.0-beta.7",
-    "publishedAt":  "2026-09-27T23:16:44.9306172+01:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000017.zip",
-    "artifactSha256":  "580938ef2bc2f6397c23ac4931189f0ffd53e649b2bac0f0bb46540cc64d55b7",
-    "artifactSize":  137972,
-    "title":  "WRN AI Gateway pilot seed",
-    "notes":  "Final pilot seed. No functional source changes from release 16."
+    "release":  18,
+    "version":  "0.7.0-beta.8",
+    "publishedAt":  "2026-09-28T06:38:30.8550928+01:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000018.zip",
+    "artifactSha256":  "2c59af3ea45cc425242abfa175e0fb52e407bf98fcda4b986fe704e9d05e8c55",
+    "artifactSize":  138111,
+    "title":  "WRN AI Gateway Monday pilot seed",
+    "notes":  "Installer completion closes cleanly after Open; WRN Claude model picker grouped Luna, DeepSeek, Opus, Astra."
 }
