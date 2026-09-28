@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  20,
-    "version":  "0.7.0-beta.10",
-    "publishedAt":  "2026-09-28T17:01:22.8786142+01:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000020.zip",
-    "artifactSha256":  "beb055bcfd01584890679f602c8c79468b3a16e8fcb172c53e04b5128f5a83ac",
-    "artifactSize":  138140,
-    "title":  "Simpler Claude mode wording",
-    "notes":  "Renames WTW Claude to Default Claude, removes launch-tile subtext, and normalizes the support email address."
+    "release":  21,
+    "version":  "0.7.0-beta.11",
+    "publishedAt":  "2026-09-28T19:11:26.8680236+01:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000021.zip",
+    "artifactSha256":  "6ea4178802d34149c66c8c166d1d07bebf7fabcb7e912400c08efd8ef0650256",
+    "artifactSize":  138137,
+    "title":  "Clearer Claude launch actions",
+    "notes":  "Home cards now say Launch instead of Open and expose Launch Default Claude / Launch WRN Claude accessibility names."
 }
