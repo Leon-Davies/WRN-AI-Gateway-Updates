@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  22,
-    "version":  "0.7.0-beta.12",
-    "publishedAt":  "2026-09-28T19:40:13.3483479+01:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000022.zip",
-    "artifactSha256":  "710235f6d2e06e4b8ff4b57b11eb21898b4bfce625e0e6d51004e86cc7556169",
-    "artifactSize":  138798,
-    "title":  "Fix Claude gateway reachability check",
-    "notes":  "WRN now answers Claude Desktop\u0027s one-token local connectivity probe locally after normal authentication and model validation, preventing slow upstream models from being misreported as an unreachable localhost gateway."
+    "release":  23,
+    "version":  "0.7.0-beta.13",
+    "publishedAt":  "2026-09-30T08:46:51.6874986+01:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000023.zip",
+    "artifactSha256":  "9e90514d32be3e7b84888d4b469927a3fe4d4fbafdb977f51fcc77e036e850b8",
+    "artifactSize":  138945,
+    "title":  "Refresh Home greeting over time",
+    "notes":  "The Home greeting now updates automatically as the time of day changes and when the app window is reactivated."
 }
