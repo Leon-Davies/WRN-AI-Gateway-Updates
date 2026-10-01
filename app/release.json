@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  23,
-    "version":  "0.7.0-beta.13",
-    "publishedAt":  "2026-09-30T08:46:51.6874986+01:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000023.zip",
-    "artifactSha256":  "9e90514d32be3e7b84888d4b469927a3fe4d4fbafdb977f51fcc77e036e850b8",
-    "artifactSize":  138945,
-    "title":  "Refresh Home greeting over time",
-    "notes":  "The Home greeting now updates automatically as the time of day changes and when the app window is reactivated."
+    "release":  24,
+    "version":  "0.7.0-beta.14",
+    "publishedAt":  "2026-10-01T11:51:28.7173965+01:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000024.zip",
+    "artifactSha256":  "3972b75fc12b016d16b604e8d3a78f5e6a05dcc2905d17e882f77e2421ec46cf",
+    "artifactSize":  159580,
+    "title":  "GitHub MCP connector and reliability improvements",
+    "notes":  "Adds guided GitHub MCP integration with full-access options and connection self-test, improves transient model rate-limit recovery before stream commit, and automatically relaunches WRN AI Gateway after successful application updates."
 }
