@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  25,
-    "version":  "0.7.0-beta.15",
-    "publishedAt":  "2026-10-05T14:57:35.8829079+01:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000025.zip",
-    "artifactSha256":  "46aec24a1cc190ddacce9204f165a7b811acdeabf2a65ac44b5cf1650dc39d0b",
-    "artifactSize":  160854,
-    "title":  "GPT-6.1 Sol and simpler WRN experience",
-    "notes":  "Adds GPT-6.1 Sol support, keeps the WRN Claude model picker aligned with the signed catalogue, expands What\u0027s New history, and narrows the pilot connector surface to qualified GitHub plus Manage MCPs. Microsoft 365 remains paused."
+    "release":  26,
+    "version":  "0.7.0-beta.16",
+    "publishedAt":  "2026-10-05T16:59:52.5207082+01:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000026.zip",
+    "artifactSha256":  "1ecce05a5f2b56ab925fd0e2eb9331901dfb28a118a74d35a61fe68296f9c5c0",
+    "artifactSize":  161150,
+    "title":  "Smoother one-click updates",
+    "notes":  "Improves update installation so WRN-owned gateway processes are cleaned up automatically when their recorded identity is verified. No Task Manager workaround should be needed. Model catalogue release 10 is unchanged."
 }
