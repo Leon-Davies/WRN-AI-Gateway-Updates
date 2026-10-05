@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  24,
-    "version":  "0.7.0-beta.14",
-    "publishedAt":  "2026-10-01T11:51:28.7173965+01:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000024.zip",
-    "artifactSha256":  "3972b75fc12b016d16b604e8d3a78f5e6a05dcc2905d17e882f77e2421ec46cf",
-    "artifactSize":  159580,
-    "title":  "GitHub MCP connector and reliability improvements",
-    "notes":  "Adds guided GitHub MCP integration with full-access options and connection self-test, improves transient model rate-limit recovery before stream commit, and automatically relaunches WRN AI Gateway after successful application updates."
+    "release":  25,
+    "version":  "0.7.0-beta.15",
+    "publishedAt":  "2026-10-05T14:57:35.8829079+01:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000025.zip",
+    "artifactSha256":  "46aec24a1cc190ddacce9204f165a7b811acdeabf2a65ac44b5cf1650dc39d0b",
+    "artifactSize":  160854,
+    "title":  "GPT-6.1 Sol and simpler WRN experience",
+    "notes":  "Adds GPT-6.1 Sol support, keeps the WRN Claude model picker aligned with the signed catalogue, expands What\u0027s New history, and narrows the pilot connector surface to qualified GitHub plus Manage MCPs. Microsoft 365 remains paused."
 }
