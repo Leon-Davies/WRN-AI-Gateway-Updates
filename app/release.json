@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  26,
-    "version":  "0.7.0-beta.16",
-    "publishedAt":  "2026-10-05T16:59:52.5207082+01:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000026.zip",
-    "artifactSha256":  "1ecce05a5f2b56ab925fd0e2eb9331901dfb28a118a74d35a61fe68296f9c5c0",
-    "artifactSize":  161150,
-    "title":  "Smoother one-click updates",
-    "notes":  "Improves update installation so WRN-owned gateway processes are cleaned up automatically when their recorded identity is verified. No Task Manager workaround should be needed. Model catalogue release 10 is unchanged."
+    "release":  27,
+    "version":  "0.7.0-beta.17",
+    "publishedAt":  "2026-10-07T10:41:42.2343605+01:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000027.zip",
+    "artifactSha256":  "a3ac13efb1857bd9011c91c6f8d8bdd6f653c916e094c0347c6f23d17eb5c322",
+    "artifactSize":  161138,
+    "title":  "WRN AI Gateway update",
+    "notes":  "Improvements and reliability updates."
 }
