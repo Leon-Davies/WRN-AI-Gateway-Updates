@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  30,
-    "version":  "0.7.1-beta.20-browser-models",
-    "publishedAt":  "2026-10-08T21:47:14.7368544+01:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000030.zip",
-    "artifactSha256":  "c4c27588f4d492f42634a060bc503c0cef603769aa5c50c9a819fa003e710184",
-    "artifactSize":  39362114,
-    "title":  "WRN AI Gateway controlled preview",
-    "notes":  "Private combined Browser and Model Library candidate with simplified Models UI; not published."
+    "release":  31,
+    "version":  "0.7.1-beta.21-updates-label",
+    "publishedAt":  "2026-10-09T08:33:50.1453538+01:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000031.zip",
+    "artifactSha256":  "b3a367c03d34c97694dbf0fa175f7439512d0a7f2f4415d09e754ed1184f11e7",
+    "artifactSize":  39362112,
+    "title":  "WRN AI Gateway - Updates navigation",
+    "notes":  "Renames the navigation tab, home shortcut and page heading to Updates. No functional changes."
 }
