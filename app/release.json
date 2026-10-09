@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  27,
-    "version":  "0.7.0-beta.17",
-    "publishedAt":  "2026-10-07T10:41:42.2343605+01:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000027.zip",
-    "artifactSha256":  "a3ac13efb1857bd9011c91c6f8d8bdd6f653c916e094c0347c6f23d17eb5c322",
-    "artifactSize":  161138,
-    "title":  "WRN AI Gateway update",
-    "notes":  "Improvements and reliability updates."
+    "release":  30,
+    "version":  "0.7.1-beta.20-browser-models",
+    "publishedAt":  "2026-10-08T21:47:14.7368544+01:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000030.zip",
+    "artifactSha256":  "c4c27588f4d492f42634a060bc503c0cef603769aa5c50c9a819fa003e710184",
+    "artifactSize":  39362114,
+    "title":  "WRN AI Gateway controlled preview",
+    "notes":  "Private combined Browser and Model Library candidate with simplified Models UI; not published."
 }
