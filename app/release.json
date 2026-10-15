@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  31,
-    "version":  "0.7.1-beta.21-updates-label",
-    "publishedAt":  "2026-10-09T08:33:50.1453538+01:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000031.zip",
-    "artifactSha256":  "b3a367c03d34c97694dbf0fa175f7439512d0a7f2f4415d09e754ed1184f11e7",
-    "artifactSize":  39362112,
-    "title":  "WRN AI Gateway - Updates navigation",
-    "notes":  "Renames the navigation tab, home shortcut and page heading to Updates. No functional changes."
+    "release":  32,
+    "version":  "0.7.1-beta.22-browser-safe-preflight-r2",
+    "publishedAt":  "2026-10-15T08:57:02.1056991+01:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000032.zip",
+    "artifactSha256":  "cffeae3f4da0f17a56c21926451c659ca205667b75c149a22f2e8e001cefac47",
+    "artifactSize":  39364710,
+    "title":  "WRN AI Gateway — Browser update reliability",
+    "notes":  "Improves application-update reliability when WRN Browser is running. Safely closes verified WRN-owned Browser processes during installation while preserving Browser data and application preferences."
 }
