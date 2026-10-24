@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  37,
-    "version":  "0.7.4-r5c-consensus-lifecycle-79347df",
-    "publishedAt":  "2026-10-24T15:12:58.7502448+01:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000037.zip",
-    "artifactSha256":  "fc8292487afe60c0244e351eb8cca9fb7c2c4c1dc5b054e00a0d430bf924851e",
-    "artifactSize":  40222846,
-    "title":  "WRN AI Gateway - Consensus academic research",
-    "notes":  "Adds optional Consensus academic search in Claude Desktop using your individual Consensus API key, encrypted for your Windows account. Find attributable papers with source links and DOIs. Includes simplified connection status and safe reconnect and Disconnect controls. Use public academic questions only; never submit confidential WTW information. Existing Browser and GitHub integrations are preserved."
+    "release":  38,
+    "version":  "0.7.5-r7-rms-readonly-beta-1424684",
+    "publishedAt":  "2026-10-24T21:45:08.9532236+01:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000038.zip",
+    "artifactSha256":  "f6e31d5a3dc1330bd29ab045ca640e71bd23e4bd81ea64314456cd5b88ed6b38",
+    "artifactSize":  40245510,
+    "title":  "WRN AI Gateway - Moody RMS read-only beta",
+    "notes":  "Adds optional Moody RMS IRP read-only MCP discovery to WRN Claude, using each colleague individual entitled API key and tenant region. Twelve restricted workflow and API-documentation discovery tools only: no execute-api, model runs or writes. Preserves GitHub, Browser and Consensus; removes external-only Verisk tile. Local protocol, credential security and signed Windows package qualification passed. Live RMS tenant and WRN-routed Chat interoperability have NOT yet been verified with a licensed colleague. Use public/synthetic questions only; do not submit confidential WTW or vendor model/exposure data. Report sanitized status codes to the maintainer. Exact source HEAD 14246846396c0f32d70fc6d7f898e0efb1670d5d."
 }
