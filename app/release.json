@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  32,
-    "version":  "0.7.1-beta.22-browser-safe-preflight-r2",
-    "publishedAt":  "2026-10-15T08:57:02.1056991+01:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000032.zip",
-    "artifactSha256":  "cffeae3f4da0f17a56c21926451c659ca205667b75c149a22f2e8e001cefac47",
-    "artifactSize":  39364710,
-    "title":  "WRN AI Gateway — Browser update reliability",
-    "notes":  "Improves application-update reliability when WRN Browser is running. Safely closes verified WRN-owned Browser processes during installation while preserving Browser data and application preferences."
+    "release":  37,
+    "version":  "0.7.4-r5c-consensus-lifecycle-79347df",
+    "publishedAt":  "2026-10-24T15:12:58.7502448+01:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000037.zip",
+    "artifactSha256":  "fc8292487afe60c0244e351eb8cca9fb7c2c4c1dc5b054e00a0d430bf924851e",
+    "artifactSize":  40222846,
+    "title":  "WRN AI Gateway - Consensus academic research",
+    "notes":  "Adds optional Consensus academic search in Claude Desktop using your individual Consensus API key, encrypted for your Windows account. Find attributable papers with source links and DOIs. Includes simplified connection status and safe reconnect and Disconnect controls. Use public academic questions only; never submit confidential WTW information. Existing Browser and GitHub integrations are preserved."
 }
