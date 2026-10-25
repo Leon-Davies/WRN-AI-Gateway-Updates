@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  39,
-    "version":  "0.7.5-r8-connector-updates-542b835",
-    "publishedAt":  "2026-10-25T07:15:38.0261115+00:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000039.zip",
-    "artifactSha256":  "a9ec3a67b08c0852a6286371d8888ab9770d825de6c9028ab72636e1986f241a",
-    "artifactSize":  40245821,
-    "title":  "WRN AI Gateway - Clearer connectors and recent updates",
-    "notes":  "Connector cards now show Connected or Not connected. About connectors explains MCP in simple terms, and the Updates page includes Moody RMS beta, Consensus academic research and recent connector reliability improvements. Existing GitHub, Browser, Consensus, RMS and model choices remain unchanged. RMS remains a read-only beta without a completed licensed live vendor test. Exact source HEAD 542b83522be7956733f2bca0cee81367353589ae."
+    "release":  40,
+    "version":  "0.7.5-r9-aa-tiles-988a057",
+    "publishedAt":  "2026-10-25T09:53:01.9193087+00:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000040.zip",
+    "artifactSha256":  "94f76fa703edf5c6e0bffb16ce8712e1ea5cf2098e989e41d2c4e880483c5635",
+    "artifactSize":  40245929,
+    "title":  "WRN AI Gateway - Better model comparisons",
+    "notes":  "The Models page now shows Artificial Analysis Intelligence Index scores and benchmark USD cost per task on every model tile, with the full model description in Details. Costs are benchmark estimates, not per-message charges. This enables clear model comparisons before new alternatives are published separately. No existing models, aliases or data-routing policies change. Exact source HEAD 988a0570a02f4dcfac1ae10eaf84ed1808f1ce85."
 }
