@@ -1,7 +1,7 @@
 {
     "schemaVersion":  1,
-    "release":  11,
-    "publishedAt":  "2026-10-25T11:19:31.8881649+00:00",
+    "release":  12,
+    "publishedAt":  "2026-10-25T11:25:26.7539410+00:00",
     "minimumAppVersion":  "0.7.5",
     "defaultModelKey":  "gpt6-luna",
     "benchmarkSnapshot":  "2026-10-07",
@@ -306,8 +306,8 @@
     "changelog":  [
                       {
                           "date":  "2026-10-25",
-                          "title":  "More EU research models",
-                          "body":  "Adds GLM-5.3 and Mistral Large 4 to Additional Models. Keeps Sonnet and the existing Luna, Sol, Opus recommendations. Includes AA intelligence and cost data."
+                          "title":  "New EU models now available",
+                          "body":  "Adds GLM-5.3 and Mistral Large 4 as additional model choices with AA intelligence and cost cards. Retains Sonnet and Luna, Sol, Opus. New catalogue release resolves a previous version collision."
                       },
                       {
                           "date":  "2026-10-07",
