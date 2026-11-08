@@ -1,11 +1,11 @@
 {
     "schemaVersion":  1,
-    "release":  40,
-    "version":  "0.7.5-r9-aa-tiles-988a057",
-    "publishedAt":  "2026-10-25T09:53:01.9193087+00:00",
-    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000040.zip",
-    "artifactSha256":  "94f76fa703edf5c6e0bffb16ce8712e1ea5cf2098e989e41d2c4e880483c5635",
-    "artifactSize":  40245929,
-    "title":  "WRN AI Gateway - Better model comparisons",
-    "notes":  "The Models page now shows Artificial Analysis Intelligence Index scores and benchmark USD cost per task on every model tile, with the full model description in Details. Costs are benchmark estimates, not per-message charges. This enables clear model comparisons before new alternatives are published separately. No existing models, aliases or data-routing policies change. Exact source HEAD 988a0570a02f4dcfac1ae10eaf84ed1808f1ce85."
+    "release":  41,
+    "version":  "0.7.5-r10-rel41-mode-recovery-fcee581",
+    "publishedAt":  "2026-11-07T22:16:47.6737813+00:00",
+    "artifactUrl":  "https://raw.githubusercontent.com/Leon-Davies/WRN-AI-Gateway-Updates/main/app/artifacts/release-00000041.zip",
+    "artifactSha256":  "2dab97e2708e45a37c46a4da2cda25d1c56cad3370c78d8df3093247e2fe7bf8",
+    "artifactSize":  40269239,
+    "title":  "WRN AI Gateway - Default WTW and WRN Claude recovery hotfix",
+    "notes":  "Improves bounded restoration of Default WTW Claude after WRN profile changes, detects partial mode states, strengthens Gateway lifecycle handling and update safeguards. Preserves unrelated Claude configuration and refuses unknown recovery states."
 }
